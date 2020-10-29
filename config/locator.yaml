@@ -1,0 +1,44 @@
+LoginPage:
+    username : //*[@name="userNum"]
+    password : //*[@name="userPw"]
+    submit : //*[@id="in1"]
+
+CostomerPage:
+    topFrame : topFrame
+    costomerInfo : /html/body/form/table/tbody/tr[2]/td/table/tbody/tr/td[2]/table/tbody/tr/td[5]/table/tbody/tr/td/div/a
+    mainFrame : mainFrame
+    add_Button : /html/body/form/table/tbody/tr[1]/td/table/
+      'tbody/tr/td[2]/table/tbody/tr/td[4]/input
+    add_Name : /html/body/form/table[1]/tbody/tr[2]/td[2]/input
+    add_Birthday : //*[@id="customerBirthday"]
+    add_Update_Name : /html/body/form/table[1]/tbody/tr[8]/td[2]/input
+    add_Email : /html/body/form/table[1]/tbody/tr[4]/td[4]/input
+    add_Submit : /html/body/form/table[2]/tbody/tr/td[2]/input
+    update_Button : /html/body/form/table/tbody/tr[2]/td/table/tbody/tr/td[2]/table/tbody/tr[2]/td[13]/div/span/a[1]
+    cusinfo_click_element : //*[@id="submenu1"]/div/table/tbody/tr[1]/td/table/tbody/tr[1]/td[2]/table/tbody/tr/td/span/a
+    cusadd_click_element : /html/body/form/table/tbody/tr[1]/td/table/tbody/tr/td[2]/table/tbody/tr/td[4]/input
+
+SelectCustomer:
+  topframe: topFrame
+  click_button: /html/body/form/table/tbody/tr[2]/td/table/tbody/tr/td[2]/table/tbody/tr/td[5]/table/tbody/tr/td/div/a
+CreateCustomer:
+  mainframe: mainFrame
+  add_button: /html/body/form/table/tbody/tr[1]/td/table/tbody/tr/td[2]/table/tbody/tr/td[4]/input
+  customer_name: //*[@name="customerName"]
+  customer_email: //*[@name="customerEmail"]
+  close_readonly: customerBirthday
+  customer_birthday: //*[@id="customerBirthday"]
+  create_manager: //*[@name="customerAddMan"]
+  sure_button: //*[@name="submit"]
+UpdateCustomer:
+  mainframe: mainFrame
+  select_customer: /html/body/form/table/tbody/tr[1]/td/table/tbody/tr/td[2]/table/tbody/tr/td[1]/input
+  select_customer_submit: /html/body/form/table/tbody/tr[1]/td/table/tbody/tr/td[2]/table/tbody/tr/td[3]/input
+  update_button : /html/body/form/table/tbody/tr[2]/td/table/tbody/tr/td[2]/table/tbody/tr[2]/td[13]/div/span/a[1]
+  update_Button : /html/body/form/table/tbody/tr[2]/td/table/tbody/tr/td[2]/table/tbody/tr[2]/td[13]/div/span/a[1]
+  customerjob : //*[@name="customerJob"]
+  mobilephone : /html/body/form/table[1]/tbody/tr[5]/td[4]/input
+  email: /html/body/form/table[1]/tbody/tr[7]/td[2]/input
+  updatemanager: /html/body/form/table[1]/tbody/tr[10]/td[4]/input
+  submit_button: //*[@name="submit"]
+

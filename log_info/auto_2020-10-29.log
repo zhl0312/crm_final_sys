@@ -1,0 +1,310 @@
+INFO 2020-10-29 10:43:48,046 ---登录功能开始---
+INFO 2020-10-29 10:43:48,195 ---输入用户名---admin
+INFO 2020-10-29 10:43:48,282 ---输入密码---123456
+INFO 2020-10-29 10:43:48,806 ---点击登录---
+INFO 2020-10-29 10:43:51,819 change frame
+INFO 2020-10-29 10:43:51,852 click button:客户信息
+INFO 2020-10-29 10:43:51,954 select_customer_message finish
+INFO 2020-10-29 10:43:51,955 change frame
+INFO 2020-10-29 10:44:02,020 click element
+INFO 2020-10-29 10:44:02,301 input customer_name:张三
+INFO 2020-10-29 10:44:02,391 input customer_email:123456@qq.com
+INFO 2020-10-29 10:44:02,498 change readOnly
+INFO 2020-10-29 10:44:02,503 input custome_birthday:2020/10/11  18:49:14
+INFO 2020-10-29 10:44:02,613 input option_manager:张飞
+INFO 2020-10-29 10:44:02,679 click element
+INFO 2020-10-29 10:44:02,821 create_customer finish
+INFO 2020-10-29 10:44:12,711 ---登录功能开始---
+INFO 2020-10-29 10:44:12,867 ---输入用户名---admin
+INFO 2020-10-29 10:44:12,982 ---输入密码---123456
+INFO 2020-10-29 10:44:13,304 ---点击登录---
+INFO 2020-10-29 10:44:16,325 change frame
+INFO 2020-10-29 10:44:16,377 click button:客户信息
+INFO 2020-10-29 10:44:16,481 select_customer_message finish
+INFO 2020-10-29 10:44:16,481 change frame
+INFO 2020-10-29 10:44:26,542 click update
+INFO 2020-10-29 10:54:02,199 ---登录功能开始---
+INFO 2020-10-29 10:54:02,341 ---输入用户名---admin12
+INFO 2020-10-29 10:54:02,409 ---输入密码---123
+INFO 2020-10-29 10:54:02,509 ---点击登录---
+INFO 2020-10-29 10:54:10,496 ---登录功能开始---
+INFO 2020-10-29 10:54:10,603 ---输入用户名---admin
+INFO 2020-10-29 10:54:10,677 ---输入密码---
+INFO 2020-10-29 10:54:10,746 ---点击登录---
+INFO 2020-10-29 10:54:18,726 ---登录功能开始---
+INFO 2020-10-29 10:54:18,856 ---输入用户名---admin
+INFO 2020-10-29 10:54:18,953 ---输入密码---123456
+INFO 2020-10-29 10:54:19,229 ---点击登录---
+INFO 2020-10-29 10:54:27,054 ---登录功能开始---
+INFO 2020-10-29 10:54:27,163 ---输入用户名---
+INFO 2020-10-29 10:54:27,281 ---输入密码---123
+INFO 2020-10-29 10:54:27,353 ---点击登录---
+INFO 2020-10-29 10:54:35,841 ---登录功能开始---
+INFO 2020-10-29 10:54:35,990 ---输入用户名---
+INFO 2020-10-29 10:54:36,059 ---输入密码---
+INFO 2020-10-29 10:54:36,113 ---点击登录---
+INFO 2020-10-29 11:07:26,354 ---登录功能开始---
+INFO 2020-10-29 11:07:26,511 ---输入用户名---admin
+INFO 2020-10-29 11:07:26,598 ---输入密码---123456
+INFO 2020-10-29 11:07:27,023 ---点击登录---
+INFO 2020-10-29 11:07:30,033 change frame
+INFO 2020-10-29 11:07:30,067 click button:客户信息
+INFO 2020-10-29 11:07:30,164 select_customer_message finish
+INFO 2020-10-29 11:07:30,165 change frame
+INFO 2020-10-29 11:07:40,244 click element
+INFO 2020-10-29 11:07:40,516 input customer_name:张三
+INFO 2020-10-29 11:07:40,599 input customer_email:123456@qq.com
+INFO 2020-10-29 11:07:40,711 change readOnly
+INFO 2020-10-29 11:07:40,717 input custome_birthday:2020/10/11  18:49:14
+INFO 2020-10-29 11:07:40,825 input option_manager:张飞
+INFO 2020-10-29 11:07:40,895 click element
+INFO 2020-10-29 11:07:41,014 create_customer finish
+INFO 2020-10-29 11:07:50,757 ---登录功能开始---
+INFO 2020-10-29 11:07:50,902 ---输入用户名---admin
+INFO 2020-10-29 11:07:50,995 ---输入密码---123456
+INFO 2020-10-29 11:07:51,318 ---点击登录---
+INFO 2020-10-29 11:07:54,330 change frame
+INFO 2020-10-29 11:07:54,366 click button:客户信息
+INFO 2020-10-29 11:07:54,465 select_customer_message finish
+INFO 2020-10-29 11:07:54,465 change frame
+INFO 2020-10-29 11:08:04,537 click update
+INFO 2020-10-29 11:09:39,388 ---登录功能开始---
+INFO 2020-10-29 11:09:39,510 ---输入用户名---admin
+INFO 2020-10-29 11:09:39,593 ---输入密码---123456
+INFO 2020-10-29 11:09:39,852 ---点击登录---
+INFO 2020-10-29 11:09:42,864 change frame
+INFO 2020-10-29 11:09:42,896 click button:客户信息
+INFO 2020-10-29 11:09:42,983 select_customer_message finish
+INFO 2020-10-29 11:09:42,983 change frame
+INFO 2020-10-29 11:09:53,040 click element
+INFO 2020-10-29 11:09:53,331 input customer_name:张三
+INFO 2020-10-29 11:09:53,404 input customer_email:123456@qq.com
+INFO 2020-10-29 11:09:53,481 change readOnly
+INFO 2020-10-29 11:09:53,486 input custome_birthday:2020/10/11  18:49:14
+INFO 2020-10-29 11:09:53,569 input option_manager:张飞
+INFO 2020-10-29 11:09:53,631 click element
+INFO 2020-10-29 11:09:53,744 create_customer finish
+INFO 2020-10-29 11:10:03,453 ---登录功能开始---
+INFO 2020-10-29 11:10:03,589 ---输入用户名---admin
+INFO 2020-10-29 11:10:03,665 ---输入密码---123456
+INFO 2020-10-29 11:10:03,939 ---点击登录---
+INFO 2020-10-29 11:10:06,953 change frame
+INFO 2020-10-29 11:10:06,991 click button:客户信息
+INFO 2020-10-29 11:10:07,099 select_customer_message finish
+INFO 2020-10-29 11:10:07,099 change frame
+INFO 2020-10-29 11:10:17,132 click update
+INFO 2020-10-29 11:12:33,086 ---登录功能开始---
+INFO 2020-10-29 11:12:33,239 ---输入用户名---admin
+INFO 2020-10-29 11:12:33,334 ---输入密码---123456
+INFO 2020-10-29 11:12:33,666 ---点击登录---
+INFO 2020-10-29 11:12:36,677 change frame
+INFO 2020-10-29 11:12:36,715 click button:客户信息
+INFO 2020-10-29 11:12:36,826 select_customer_message finish
+INFO 2020-10-29 11:12:36,827 change frame
+INFO 2020-10-29 11:12:46,916 click element
+INFO 2020-10-29 11:12:47,161 input customer_name:张三
+INFO 2020-10-29 11:12:47,232 input customer_email:123456@qq.com
+INFO 2020-10-29 11:12:47,314 change readOnly
+INFO 2020-10-29 11:12:47,319 input custome_birthday:2020/10/11  18:49:14
+INFO 2020-10-29 11:12:47,393 input option_manager:张飞
+INFO 2020-10-29 11:12:47,448 click element
+INFO 2020-10-29 11:12:47,551 create_customer finish
+INFO 2020-10-29 11:12:57,354 ---登录功能开始---
+INFO 2020-10-29 11:12:57,484 ---输入用户名---admin
+INFO 2020-10-29 11:12:57,584 ---输入密码---123456
+INFO 2020-10-29 11:12:57,916 ---点击登录---
+INFO 2020-10-29 11:13:00,930 change frame
+INFO 2020-10-29 11:13:00,966 click button:客户信息
+INFO 2020-10-29 11:13:01,079 select_customer_message finish
+INFO 2020-10-29 11:13:01,080 change frame
+INFO 2020-10-29 11:13:11,139 click update
+INFO 2020-10-29 11:15:59,025 ---登录功能开始---
+INFO 2020-10-29 11:15:59,152 ---输入用户名---admin
+INFO 2020-10-29 11:15:59,230 ---输入密码---123456
+INFO 2020-10-29 11:15:59,511 ---点击登录---
+INFO 2020-10-29 11:16:02,524 change frame
+INFO 2020-10-29 11:16:02,565 click button:客户信息
+INFO 2020-10-29 11:16:02,662 select_customer_message finish
+INFO 2020-10-29 11:16:02,662 change frame
+INFO 2020-10-29 11:16:12,708 click element
+INFO 2020-10-29 11:16:12,993 input customer_name:张三
+INFO 2020-10-29 11:16:13,077 input customer_email:123456@qq.com
+INFO 2020-10-29 11:16:13,173 change readOnly
+INFO 2020-10-29 11:16:13,179 input custome_birthday:2020/10/11  18:49:14
+INFO 2020-10-29 11:16:13,286 input option_manager:张飞
+INFO 2020-10-29 11:16:13,347 click element
+INFO 2020-10-29 11:16:13,462 create_customer finish
+INFO 2020-10-29 11:16:23,341 ---登录功能开始---
+INFO 2020-10-29 11:16:23,454 ---输入用户名---admin
+INFO 2020-10-29 11:16:23,541 ---输入密码---123456
+INFO 2020-10-29 11:16:23,892 ---点击登录---
+INFO 2020-10-29 11:16:26,903 change frame
+INFO 2020-10-29 11:16:26,936 click button:客户信息
+INFO 2020-10-29 11:16:27,028 select_customer_message finish
+INFO 2020-10-29 11:16:27,028 change frame
+INFO 2020-10-29 11:16:37,088 click update
+INFO 2020-10-29 11:18:02,929 ---登录功能开始---
+INFO 2020-10-29 11:18:03,063 ---输入用户名---admin
+INFO 2020-10-29 11:18:03,146 ---输入密码---123456
+INFO 2020-10-29 11:18:03,397 ---点击登录---
+INFO 2020-10-29 11:18:06,405 change frame
+INFO 2020-10-29 11:18:06,438 click button:客户信息
+INFO 2020-10-29 11:18:06,528 select_customer_message finish
+INFO 2020-10-29 11:18:06,528 change frame
+INFO 2020-10-29 11:18:16,567 click element
+INFO 2020-10-29 11:18:16,880 input customer_name:张三
+INFO 2020-10-29 11:18:16,965 input customer_email:123456@qq.com
+INFO 2020-10-29 11:18:17,054 change readOnly
+INFO 2020-10-29 11:18:17,061 input custome_birthday:2020/10/11  18:49:14
+INFO 2020-10-29 11:18:17,161 input option_manager:张飞
+INFO 2020-10-29 11:18:17,217 click element
+INFO 2020-10-29 11:18:17,319 create_customer finish
+INFO 2020-10-29 11:18:27,061 ---登录功能开始---
+INFO 2020-10-29 11:18:27,170 ---输入用户名---admin
+INFO 2020-10-29 11:18:27,250 ---输入密码---123456
+INFO 2020-10-29 11:18:27,491 ---点击登录---
+INFO 2020-10-29 11:18:30,500 change frame
+INFO 2020-10-29 11:18:30,531 click button:客户信息
+INFO 2020-10-29 11:18:30,620 select_customer_message finish
+INFO 2020-10-29 11:18:30,620 change frame
+INFO 2020-10-29 11:18:40,675 click update
+INFO 2020-10-29 11:23:31,491 ---登录功能开始---
+INFO 2020-10-29 11:23:31,626 ---输入用户名---admin
+INFO 2020-10-29 11:23:31,704 ---输入密码---123456
+INFO 2020-10-29 11:23:31,961 ---点击登录---
+INFO 2020-10-29 11:23:34,976 change frame
+INFO 2020-10-29 11:23:35,007 click button:客户信息
+INFO 2020-10-29 11:23:35,098 select_customer_message finish
+INFO 2020-10-29 11:23:35,098 change frame
+INFO 2020-10-29 11:23:45,183 click element
+INFO 2020-10-29 11:23:45,447 input customer_name:张三
+INFO 2020-10-29 11:23:45,529 input customer_email:123456@qq.com
+INFO 2020-10-29 11:23:45,609 change readOnly
+INFO 2020-10-29 11:23:45,614 input custome_birthday:2020/10/11  18:49:14
+INFO 2020-10-29 11:23:45,707 input option_manager:张飞
+INFO 2020-10-29 11:23:45,767 click element
+INFO 2020-10-29 11:23:45,901 create_customer finish
+INFO 2020-10-29 11:23:55,594 ---登录功能开始---
+INFO 2020-10-29 11:23:55,704 ---输入用户名---admin
+INFO 2020-10-29 11:23:55,790 ---输入密码---123456
+INFO 2020-10-29 11:23:56,047 ---点击登录---
+INFO 2020-10-29 11:23:59,061 change frame
+INFO 2020-10-29 11:23:59,095 click button:客户信息
+INFO 2020-10-29 11:23:59,182 select_customer_message finish
+INFO 2020-10-29 11:23:59,182 change frame
+INFO 2020-10-29 11:24:09,258 click update
+INFO 2020-10-29 11:24:25,306 ---登录功能开始---
+INFO 2020-10-29 11:24:25,416 ---输入用户名---admin12
+INFO 2020-10-29 11:24:25,478 ---输入密码---123
+INFO 2020-10-29 11:24:25,574 ---点击登录---
+INFO 2020-10-29 11:24:33,343 ---登录功能开始---
+INFO 2020-10-29 11:24:33,483 ---输入用户名---admin
+INFO 2020-10-29 11:24:33,554 ---输入密码---
+INFO 2020-10-29 11:24:33,611 ---点击登录---
+INFO 2020-10-29 11:24:41,476 ---登录功能开始---
+INFO 2020-10-29 11:24:41,594 ---输入用户名---admin
+INFO 2020-10-29 11:24:41,690 ---输入密码---123456
+INFO 2020-10-29 11:24:42,076 ---点击登录---
+INFO 2020-10-29 11:24:49,935 ---登录功能开始---
+INFO 2020-10-29 11:24:50,065 ---输入用户名---
+INFO 2020-10-29 11:24:50,179 ---输入密码---123
+INFO 2020-10-29 11:24:50,251 ---点击登录---
+INFO 2020-10-29 11:24:58,678 ---登录功能开始---
+INFO 2020-10-29 11:24:58,803 ---输入用户名---
+INFO 2020-10-29 11:24:58,957 ---输入密码---
+INFO 2020-10-29 11:24:59,050 ---点击登录---
+INFO 2020-10-29 11:28:53,110 ---登录功能开始---
+INFO 2020-10-29 11:28:53,250 ---输入用户名---admin12
+INFO 2020-10-29 11:28:53,329 ---输入密码---123
+INFO 2020-10-29 11:28:53,447 ---点击登录---
+INFO 2020-10-29 11:29:02,463 ---登录功能开始---
+INFO 2020-10-29 11:29:02,573 ---输入用户名---admin
+INFO 2020-10-29 11:29:02,633 ---输入密码---
+INFO 2020-10-29 11:29:02,697 ---点击登录---
+INFO 2020-10-29 11:29:10,497 ---登录功能开始---
+INFO 2020-10-29 11:29:10,650 ---输入用户名---admin
+INFO 2020-10-29 11:29:10,777 ---输入密码---123456
+INFO 2020-10-29 11:29:11,137 ---点击登录---
+INFO 2020-10-29 11:29:19,592 ---登录功能开始---
+INFO 2020-10-29 11:29:19,661 ---输入用户名---
+INFO 2020-10-29 11:29:19,762 ---输入密码---123
+INFO 2020-10-29 11:29:19,837 ---点击登录---
+INFO 2020-10-29 11:29:27,819 ---登录功能开始---
+INFO 2020-10-29 11:29:27,935 ---输入用户名---
+INFO 2020-10-29 11:29:28,045 ---输入密码---
+INFO 2020-10-29 11:29:28,125 ---点击登录---
+INFO 2020-10-29 11:43:30,360 ---登录功能开始---
+INFO 2020-10-29 11:43:30,487 ---输入用户名---admin
+INFO 2020-10-29 11:43:30,574 ---输入密码---123456
+INFO 2020-10-29 11:43:30,865 ---点击登录---
+INFO 2020-10-29 11:43:33,875 change frame
+INFO 2020-10-29 11:43:33,933 click button:客户信息
+INFO 2020-10-29 11:43:34,064 select_customer_message finish
+INFO 2020-10-29 11:43:34,065 change frame
+INFO 2020-10-29 11:43:44,105 click element
+INFO 2020-10-29 11:43:44,416 input customer_name:张三
+INFO 2020-10-29 11:43:44,497 input customer_email:123456@qq.com
+INFO 2020-10-29 11:43:44,711 change readOnly
+INFO 2020-10-29 11:43:44,719 input custome_birthday:2020/10/11  18:49:14
+INFO 2020-10-29 11:43:44,858 input option_manager:张飞
+INFO 2020-10-29 11:43:44,954 click element
+INFO 2020-10-29 11:43:45,097 create_customer finish
+INFO 2020-10-29 11:43:55,075 ---登录功能开始---
+INFO 2020-10-29 11:43:55,268 ---输入用户名---admin
+INFO 2020-10-29 11:43:55,387 ---输入密码---123456
+INFO 2020-10-29 11:43:55,849 ---点击登录---
+INFO 2020-10-29 11:43:58,865 change frame
+INFO 2020-10-29 11:43:58,912 click button:客户信息
+INFO 2020-10-29 11:43:59,031 select_customer_message finish
+INFO 2020-10-29 11:43:59,032 change frame
+INFO 2020-10-29 11:44:09,086 click update
+INFO 2020-10-29 15:39:41,623 ---登录功能开始---
+INFO 2020-10-29 15:39:41,726 ---输入用户名---admin
+INFO 2020-10-29 15:39:41,806 ---输入密码---123456
+INFO 2020-10-29 15:39:42,289 ---点击登录---
+INFO 2020-10-29 15:39:45,302 change frame
+INFO 2020-10-29 15:39:45,334 click button:客户信息
+INFO 2020-10-29 15:39:45,442 select_customer_message finish
+INFO 2020-10-29 15:39:45,442 change frame
+INFO 2020-10-29 15:39:55,478 click element
+INFO 2020-10-29 15:39:55,731 input customer_name:张三
+INFO 2020-10-29 15:39:55,811 input customer_email:123456@qq.com
+INFO 2020-10-29 15:39:55,900 change readOnly
+INFO 2020-10-29 15:39:55,906 input custome_birthday:2020/10/11  18:49:14
+INFO 2020-10-29 15:39:56,009 input option_manager:张飞
+INFO 2020-10-29 15:39:56,068 click element
+INFO 2020-10-29 15:39:56,195 create_customer finish
+INFO 2020-10-29 15:40:05,990 ---登录功能开始---
+INFO 2020-10-29 15:40:06,117 ---输入用户名---admin
+INFO 2020-10-29 15:40:06,216 ---输入密码---123456
+INFO 2020-10-29 15:40:06,672 ---点击登录---
+INFO 2020-10-29 15:40:09,686 change frame
+INFO 2020-10-29 15:40:09,724 click button:客户信息
+INFO 2020-10-29 15:40:09,823 select_customer_message finish
+INFO 2020-10-29 15:40:09,824 change frame
+INFO 2020-10-29 15:40:19,939 click update
+INFO 2020-10-29 15:43:17,552 ---登录功能开始---
+INFO 2020-10-29 15:43:17,646 ---输入用户名---admin
+INFO 2020-10-29 15:43:17,728 ---输入密码---123456
+INFO 2020-10-29 15:43:18,079 ---点击登录---
+INFO 2020-10-29 15:43:21,090 change frame
+INFO 2020-10-29 15:43:21,124 click button:客户信息
+INFO 2020-10-29 15:43:21,223 select_customer_message finish
+INFO 2020-10-29 15:43:21,223 change frame
+INFO 2020-10-29 15:43:31,299 click element
+INFO 2020-10-29 15:43:31,545 input customer_name:张三
+INFO 2020-10-29 15:43:31,629 input customer_email:123456@qq.com
+INFO 2020-10-29 15:43:31,723 change readOnly
+INFO 2020-10-29 15:43:31,728 input custome_birthday:2020/10/11  18:49:14
+INFO 2020-10-29 15:43:31,835 input option_manager:张飞
+INFO 2020-10-29 15:43:31,895 click element
+INFO 2020-10-29 15:43:31,997 create_customer finish
+INFO 2020-10-29 15:43:41,952 ---登录功能开始---
+INFO 2020-10-29 15:43:42,062 ---输入用户名---admin
+INFO 2020-10-29 15:43:42,145 ---输入密码---123456
+INFO 2020-10-29 15:43:42,414 ---点击登录---
+INFO 2020-10-29 15:43:45,425 change frame
+INFO 2020-10-29 15:43:45,465 click button:客户信息
+INFO 2020-10-29 15:43:45,585 select_customer_message finish
+INFO 2020-10-29 15:43:45,586 change frame
+INFO 2020-10-29 15:43:55,652 click update
